@@ -8,14 +8,16 @@
   font-size: 18px;
   font-weight: 500;
   background-color: var(--accent-color);
-  color: var(--text-color-dark);
+  color: #ffffff;
   border-radius: 2px;
   text-align: center;
   position: relative;
   overflow: hidden;
   cursor: pointer;
 }
-
+#btnText-send {
+  color: #ffffff;
+}
 .check-box-send {
   width: 45px;
   height: 45px;
