@@ -1,5 +1,5 @@
 export const ResumeLink =
-  "https://drive.google.com/file/d/1FZMqFNJk6GbW0Z708zTqWzsbBrSrsuPZ/view?usp=drive_link";
+  "https://drive.google.com/file/d/1FZMqFNJk6GbW0Z708zTqWzsbBrSrsuPZ/view?usp=sharing";
 
 const ListLinks = [
   {
