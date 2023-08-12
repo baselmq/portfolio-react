@@ -35,7 +35,9 @@ const About = () => {
       </div>
       <div className="btn-about-mobile">
         <div className="buttons">
-          <Link href="/#contact"> contact me</Link>
+          <HashLink smooth to="/#contact">
+            contact me
+          </HashLink>
           <Link to={ResumeLink} target="_blank" rel="noopener noreferrer">
             see my resume
           </Link>
